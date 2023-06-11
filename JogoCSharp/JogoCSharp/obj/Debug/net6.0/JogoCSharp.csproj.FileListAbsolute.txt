@@ -1,0 +1,15 @@
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\obj\Debug\net6.0\JogoCSharp.csproj.AssemblyReference.cache
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\obj\Debug\net6.0\JogoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\obj\Debug\net6.0\JogoCSharp.AssemblyInfoInputs.cache
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\obj\Debug\net6.0\JogoCSharp.AssemblyInfo.cs
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\obj\Debug\net6.0\JogoCSharp.csproj.CoreCompileInputs.cache
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\bin\Debug\net6.0\JogoCSharp.exe
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\bin\Debug\net6.0\JogoCSharp.deps.json
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\bin\Debug\net6.0\JogoCSharp.runtimeconfig.json
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\bin\Debug\net6.0\JogoCSharp.dll
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\bin\Debug\net6.0\JogoCSharp.pdb
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\obj\Debug\net6.0\JogoCSharp.dll
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\obj\Debug\net6.0\refint\JogoCSharp.dll
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\obj\Debug\net6.0\JogoCSharp.pdb
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\obj\Debug\net6.0\JogoCSharp.genruntimeconfig.cache
+C:\REPOS\JogoCSharp\JogoCSharp\JogoCSharp\obj\Debug\net6.0\ref\JogoCSharp.dll
